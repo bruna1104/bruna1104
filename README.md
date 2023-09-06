@@ -1,5 +1,15 @@
-### boas vindas ao meu perfil 💖
+### Boas vindas ao meu perfil 💖
 
-meu nome é bruna
+Meu nome é bruna
  
--estou estudando na alura;
+-Estou estudando na.[Alura](https://www.Alura.com.br)
+-Estou me desenvolveno na linguagem JavaScript
+-Utilizo esse espaço para minha organização e compartilhamnto do meus projetos desenvolvidos 
+
+
+
+
+
+
+
+!.[].(https://media.tenor.com/mXgVRO2zbRoAAAAd/pica-pau.gif)
